@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/projektas-tomcat-spring-data-paveldejimas/static/css/main.cf7ee5b4.chunk.css",
-    "main.js": "/projektas-tomcat-spring-data-paveldejimas/static/js/main.d7997494.chunk.js",
-    "main.js.map": "/projektas-tomcat-spring-data-paveldejimas/static/js/main.d7997494.chunk.js.map",
-    "runtime-main.js": "/projektas-tomcat-spring-data-paveldejimas/static/js/runtime-main.eb45ee44.js",
-    "runtime-main.js.map": "/projektas-tomcat-spring-data-paveldejimas/static/js/runtime-main.eb45ee44.js.map",
-    "static/css/2.437d98bc.chunk.css": "/projektas-tomcat-spring-data-paveldejimas/static/css/2.437d98bc.chunk.css",
-    "static/js/2.f632d192.chunk.js": "/projektas-tomcat-spring-data-paveldejimas/static/js/2.f632d192.chunk.js",
-    "static/js/2.f632d192.chunk.js.map": "/projektas-tomcat-spring-data-paveldejimas/static/js/2.f632d192.chunk.js.map",
-    "index.html": "/projektas-tomcat-spring-data-paveldejimas/index.html",
-    "precache-manifest.44de68ae5647bc17855f7d4fb694456b.js": "/projektas-tomcat-spring-data-paveldejimas/precache-manifest.44de68ae5647bc17855f7d4fb694456b.js",
-    "service-worker.js": "/projektas-tomcat-spring-data-paveldejimas/service-worker.js",
-    "static/css/2.437d98bc.chunk.css.map": "/projektas-tomcat-spring-data-paveldejimas/static/css/2.437d98bc.chunk.css.map",
-    "static/css/main.cf7ee5b4.chunk.css.map": "/projektas-tomcat-spring-data-paveldejimas/static/css/main.cf7ee5b4.chunk.css.map",
-    "static/js/2.f632d192.chunk.js.LICENSE.txt": "/projektas-tomcat-spring-data-paveldejimas/static/js/2.f632d192.chunk.js.LICENSE.txt",
-    "static/media/samsung.jpg": "/projektas-tomcat-spring-data-paveldejimas/static/media/samsung.8ae33045.jpg"
+    "main.css": "/parduotuve/static/css/main.cf7ee5b4.chunk.css",
+    "main.js": "/parduotuve/static/js/main.cb509df5.chunk.js",
+    "main.js.map": "/parduotuve/static/js/main.cb509df5.chunk.js.map",
+    "runtime-main.js": "/parduotuve/static/js/runtime-main.e5d3988e.js",
+    "runtime-main.js.map": "/parduotuve/static/js/runtime-main.e5d3988e.js.map",
+    "static/css/2.437d98bc.chunk.css": "/parduotuve/static/css/2.437d98bc.chunk.css",
+    "static/js/2.78503543.chunk.js": "/parduotuve/static/js/2.78503543.chunk.js",
+    "static/js/2.78503543.chunk.js.map": "/parduotuve/static/js/2.78503543.chunk.js.map",
+    "index.html": "/parduotuve/index.html",
+    "precache-manifest.ee3c54cb7154ab3185e11ca14a519c24.js": "/parduotuve/precache-manifest.ee3c54cb7154ab3185e11ca14a519c24.js",
+    "service-worker.js": "/parduotuve/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/parduotuve/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.cf7ee5b4.chunk.css.map": "/parduotuve/static/css/main.cf7ee5b4.chunk.css.map",
+    "static/js/2.78503543.chunk.js.LICENSE.txt": "/parduotuve/static/js/2.78503543.chunk.js.LICENSE.txt",
+    "static/media/samsung.jpg": "/parduotuve/static/media/samsung.8ae33045.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb45ee44.js",
+    "static/js/runtime-main.e5d3988e.js",
     "static/css/2.437d98bc.chunk.css",
-    "static/js/2.f632d192.chunk.js",
+    "static/js/2.78503543.chunk.js",
     "static/css/main.cf7ee5b4.chunk.css",
-    "static/js/main.d7997494.chunk.js"
+    "static/js/main.cb509df5.chunk.js"
   ]
 }

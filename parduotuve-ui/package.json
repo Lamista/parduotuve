@@ -1,6 +1,6 @@
 {
-  "name": "tomcat-spring-data-paveldejimas",
-  "homepage": "/projektas-tomcat-spring-data-paveldejimas/",
+  "name": "parduotuve-ui",
+  "homepage": "/parduotuve/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

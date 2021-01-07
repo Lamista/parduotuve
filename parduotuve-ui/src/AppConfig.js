@@ -1,5 +1,5 @@
 // const baseUrl = process.env.PUBLIC_URL;
-// const baseUrl = 'https://itpro2017.herokuapp.com';
-const baseUrl = 'http://localhost:8080/projektas-tomcat-spring-data-paveldejimas';
+const baseUrl = 'http://localhost:8080/parduotuve';
+// const baseUrl = 'http://localhost:8083/parduotuve';
 
 export default baseUrl;

@@ -10,7 +10,6 @@ const Navigation = () => (
                 <NavLink className='nav-link' exact to='/'>Home</NavLink>
                 <NavLink className='nav-link' to={`/admin/products`}>Admin</NavLink>
                 <LoginComponent />
-                <NavLink className='nav-link' to={`/login`}>Login Form</NavLink>
             </ul>
             <ul className='nav navbar-nav navbar-right'>
                 <NavLink className='nav-link' to={`/cart-products`}>

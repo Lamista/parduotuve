@@ -11,7 +11,6 @@ import NoMatch from './components/NoMatch/NoMatchComponent';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import FormaContainer from './components/Forma/FormaContainer';
 
 const App = (props) => (
   <div>
@@ -24,7 +23,6 @@ const App = (props) => (
       <Route path='/admin/products/:id' component={ProductAdministrationFormContainer} />
       <Route path='/admin/products' component={AdminTableContainer} />
       <Route path='/cart-products' component={CartDetailsContainer} />
-      <Route path='/login' component={FormaContainer} />
       <Route path='*' component={NoMatch} />
       <Route component={NoMatch} />
     </Switch>

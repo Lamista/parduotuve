@@ -6,8 +6,8 @@
 http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
 http://www.springframework.org/schema/context
 http://www.springframework.org/schema/context/spring-context-3.0.xsd">
-	<context:component-scan	base-package="it.akademija" />
-				<bean id="product1" class="it.akademija.Product.objects.ProductInfo">
+	<context:component-scan	base-package="com.laurastasiule" />
+				<bean id="product1" class="com.laurastasiule.Product.objects.ProductInfo">
 					<property name="id" value="5" />
 					<property name="title" value="Samsung1" />
 					<property name="image" value="/samsung.jpg" />
@@ -15,7 +15,7 @@ http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 					<property name="price" value="250" />
 					<property name="quantity" value="1" />
 				</bean>
-				<bean  id="product2" class="it.akademija.Product.objects.ProductInfo">
+				<bean  id="product2" class="com.laurastasiule.Product.objects.ProductInfo">
 					<property name="id" value="6" />
 					<property name="title" value="Samsung2" />
 					<property name="image" value="/samsung.jpg" />

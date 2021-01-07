@@ -19,7 +19,10 @@ class ProductListContainer extends Component {
         console.log("Mount");
         axios
             .get(`${baseUrl}/api/products`)
-            .then(res => this.setState({ products: res.data }))
+            .then(res => {
+                this.setState({ products: res.data });
+                console.log(res.data);
+            })
             .catch(err => console.log(err))
     }
 
@@ -32,6 +35,8 @@ class ProductListContainer extends Component {
     }
 
     render() {
+        console.log("products length: " + this.state.products.length);
+        console.log("search length: " + this.state.search.length);
         if (this.state.products.length > 0 && this.state.search.length === 0) {
             return (
                 <ProductListComponent

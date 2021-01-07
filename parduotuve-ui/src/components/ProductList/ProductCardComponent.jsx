@@ -35,7 +35,7 @@ ProductCardComponent.propTypes = {
     id: PropTypes.number.isRequired,
     image: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
-    description: PropTypes,
+    description: PropTypes.any,
     price: PropTypes.number.isRequired,
     quantity: PropTypes.number
 };
