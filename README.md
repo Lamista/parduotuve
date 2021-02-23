@@ -19,7 +19,8 @@ Frontend and backend of Eshop.
 1. JDK 11
 2. Maven
 3. Spring
-4. H2
+4. Spring Boot
+5. H2
 
 ---
 
